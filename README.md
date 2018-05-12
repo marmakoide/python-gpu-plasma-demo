@@ -5,6 +5,8 @@ and the [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) library to
 draw graphics purely on the GPU and display it. For this demonstration, the
 graphic displayed is a so-called [plasma effect](https://en.wikipedia.org/wiki/Plasma_effect).
 
+![thumbnail](https://i.imgur.com/bSjCuSm.png)
+
 The demonstration is interactive, moving the mouse cursor over the display window
 will alterate the plasma.
 
